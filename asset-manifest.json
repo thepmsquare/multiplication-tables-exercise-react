@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/multiplication-tables-exercise-react/static/css/main.c055ef21.chunk.css",
+    "main.js": "/multiplication-tables-exercise-react/static/js/main.6e6bd9ea.chunk.js",
+    "main.js.map": "/multiplication-tables-exercise-react/static/js/main.6e6bd9ea.chunk.js.map",
+    "runtime-main.js": "/multiplication-tables-exercise-react/static/js/runtime-main.09e03c85.js",
+    "runtime-main.js.map": "/multiplication-tables-exercise-react/static/js/runtime-main.09e03c85.js.map",
+    "static/js/2.f06b46c9.chunk.js": "/multiplication-tables-exercise-react/static/js/2.f06b46c9.chunk.js",
+    "static/js/2.f06b46c9.chunk.js.map": "/multiplication-tables-exercise-react/static/js/2.f06b46c9.chunk.js.map",
+    "index.html": "/multiplication-tables-exercise-react/index.html",
+    "precache-manifest.db821898c7d5bad777af11c0a23ec188.js": "/multiplication-tables-exercise-react/precache-manifest.db821898c7d5bad777af11c0a23ec188.js",
+    "service-worker.js": "/multiplication-tables-exercise-react/service-worker.js",
+    "static/css/main.c055ef21.chunk.css.map": "/multiplication-tables-exercise-react/static/css/main.c055ef21.chunk.css.map",
+    "static/js/2.f06b46c9.chunk.js.LICENSE.txt": "/multiplication-tables-exercise-react/static/js/2.f06b46c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09e03c85.js",
+    "static/js/2.f06b46c9.chunk.js",
+    "static/css/main.c055ef21.chunk.css",
+    "static/js/main.6e6bd9ea.chunk.js"
+  ]
+}
