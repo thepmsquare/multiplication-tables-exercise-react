@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/multiplication-tables-exercise-react/precache-manifest.db821898c7d5bad777af11c0a23ec188.js"
+  "/multiplication-tables-exercise-react/precache-manifest.6c0a788f048f9e0f8f3ec7240f4e92d5.js"
 );
 
 self.addEventListener('message', (event) => {

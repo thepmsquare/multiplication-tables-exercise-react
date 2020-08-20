@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2345cd3edbf49d80434b19cfe20d97f2",
+    "revision": "bb48a395761c644c5bc3190ef42aaf87",
     "url": "/multiplication-tables-exercise-react/index.html"
   },
   {
-    "revision": "66bbc5fdab43b29be2d5",
+    "revision": "7fdab1a3bfada70423d6",
     "url": "/multiplication-tables-exercise-react/static/css/main.c055ef21.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/multiplication-tables-exercise-react/static/js/2.f06b46c9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "66bbc5fdab43b29be2d5",
-    "url": "/multiplication-tables-exercise-react/static/js/main.6e6bd9ea.chunk.js"
+    "revision": "7fdab1a3bfada70423d6",
+    "url": "/multiplication-tables-exercise-react/static/js/main.66517c3d.chunk.js"
   },
   {
     "revision": "32545ac2619d362b01dc",
